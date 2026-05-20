@@ -1,0 +1,3 @@
+This Flask Notes App is a simple web application where users can add, edit, delete, and search notes through a basic HTML interface. It helps in learning Flask routing, CRUD operations, and web development basics using Python.
+
+
