@@ -1,7 +1,6 @@
 import json
 import base64
 import os
-
 FILE_NAME = "passwords.json"
 
 
